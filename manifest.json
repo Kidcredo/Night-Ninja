@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Night Ninja",
+  "theme": {
+    "colors": {
+      "frame": "#011627",
+      "tab_background_text": "#C0C4D5",
+      "tab_text": "#C0C4D5",
+      "tab_loading": "#82AAFF",
+      "tab_line": "#C0C4D5",
+      "tab_selected": "#0B2952",
+      "tab_background_separator": "#0E293F",
+      "toolbar_field": "#011627",
+      "toolbar_field_text": "#00CB00",
+      "toolbar_field_text_focus": "#C0C4D5",
+      "toolbar_field_border": "#0E293F",
+      "toolbar_bottom_separator": "#0E293F",
+      "toolbar_field_border_focus": "#75A0BE",
+      "toolbar_field_separator": "#0E293F",
+      "toolbar": "#0B2952",
+      "ntp_background": "#011627",
+      "ntp_text": "#D6DEEB",
+      "popup": "#011627",
+      "popup_text": "#D6DEEB",
+      "popup_border": "#0E293F",
+      "popup_highlight": "#39556B",
+      "popup_highlight_text": "#89C9FA",
+      "icon": "#39556B",
+      "icons_attention": "#8ab4f8",
+      "button_background_hover": "#39556B",
+      "button_background_active": "#39556B",
+      "sidebar": "#011627",
+      "sidebar_border": "#0E293F",
+      "sidebar_highlight": "#698196",
+      "sidebar_highlight_text": "#D6DEEB",
+      "sidebar_text": "#C0C4D5"
+    }
+  }
+}
